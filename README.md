@@ -1,16 +1,20 @@
-## Hi there 👋
+# Rajni 👩‍💻
 
-<!--
-**Rajni-yadav146/Rajni-yadav146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Undergraduate @ SRM University | Future Software Engineer
 
-Here are some ideas to get you started:
+🔹 CGPA: 8.98
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Java • C++ • SQL • Web Development
+
+🔹 Building impactful tech solutions
+
+### Current Focus
+- Data Structures & Algorithms
+- Full Stack Development
+
+### Reach Me
+📧 ytina3485@gmail.com
+
+💼 LinkedIn: linkedin.com/in/rajni-269bb727a
+
+⭐ Open to internships, collaborations, and learning opportunities.
