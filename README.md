@@ -15,6 +15,6 @@ Computer Science Undergraduate @ SRM University | Future Software Engineer
 ### Reach Me
 📧 ytina3485@gmail.com
 
-💼 LinkedIn: linkedin.com/in/rajni-269bb727a
+💼 LinkedIn: [linkedin.com/in/rajni-269bb727a](https://www.linkedin.com/in/rajni-269bb727a/)
 
 ⭐ Open to internships, collaborations, and learning opportunities.
